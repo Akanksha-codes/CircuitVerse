@@ -12,7 +12,7 @@ import { gateGenerateVerilog } from '../utils';
  * @extends CircuitElement
  * @param {number} x - x coordinate of And Gate.
  * @param {number} y - y coordinate of And Gate.
- * @param {Scope=} scope - Cirucit on which and gate is drawn
+ * @param {Scope=} scope - Cirucit on which And gate is drawn
  * @param {string=} dir - direction of And Gate
  * @param {number=} inputLength - number of input nodes
  * @param {number=} bitWidth - bit width per node.
